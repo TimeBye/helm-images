@@ -10,5 +10,5 @@ nginx:1.16.0
 
 ## Install
 ```
-helm plugin install git@github.com:helm-lab/helm-images.git
+helm plugin install https://github.com/TimeBye/helm-images
 ```
